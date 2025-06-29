@@ -1,0 +1,14 @@
+h1{
+    color: gold;
+    font-family: cursive;
+    }
+#menu-bar a{
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    padding: 4px;
+
+#menu-bar a:hover{
+    background-color: beige;
+}
